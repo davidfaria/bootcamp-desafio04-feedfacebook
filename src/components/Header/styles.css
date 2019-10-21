@@ -1,0 +1,28 @@
+header {
+  background-color: #3a5998;
+  height: 64px !important;
+  color: #fff;
+  padding: 0px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+header .logo img {
+  height: 36px;
+  /* width: 36px; */
+}
+
+header .profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .profile img {
+  height: 36px;
+  width: 36px;
+  margin-left: 10px;
+  cursor: pointer;
+}

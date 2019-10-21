@@ -1,0 +1,18 @@
+.comment {
+  display: flex;
+}
+.comment img {
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+}
+
+.comment .content {
+  width: 622px;
+  padding: 20px;
+  background-color: #eeeeee;
+  border-radius: 20px;
+  font-weight: 300;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
